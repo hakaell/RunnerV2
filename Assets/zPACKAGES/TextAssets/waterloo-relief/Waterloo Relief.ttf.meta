@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e80db6c3aaaae0c419bf69daee9bc49f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Waterloo Relief
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9002748f89a66d4408eaf8202d1edd15, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

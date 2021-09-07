@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b49f13da04f5e9a4695a2f66684fc512
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - National Cartoon
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b151090bc382932419f0e85807591bef, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

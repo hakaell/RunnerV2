@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 933135fb1f2340644943b5676aee6ed8, type: 3}
+  m_Name: _Red
+  m_EditorClassIdentifier: 
+  <GlassMaterial>k__BackingField: {fileID: 2100000, guid: edba32eeb6652b14f83949f61b532366, type: 2}
+  <BodyMaterial>k__BackingField: {fileID: 2100000, guid: 70a7fc959a3330f499bcb39cf48a2fc1, type: 2}
+  <ConMaterial>k__BackingField: {fileID: 2100000, guid: 70a7fc959a3330f499bcb39cf48a2fc1, type: 2}
+  <LightMaterial>k__BackingField: {fileID: 2100000, guid: edba32eeb6652b14f83949f61b532366, type: 2}
