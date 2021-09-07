@@ -5,8 +5,8 @@
 
 ![intro](https://github.com/hakaell/RunnerV2/blob/master/Assets/1.JPG)
 
-![intro](https://github.com/hakaell/RunnerV2/blob/master/Assets/2.JPG)
+![ingame](https://github.com/hakaell/RunnerV2/blob/master/Assets/2.JPG)
 
-![intro](https://github.com/hakaell/RunnerV2/blob/master/Assets/4.JPG)
+![endgame](https://github.com/hakaell/RunnerV2/blob/master/Assets/4.JPG)
 
-![intro](https://github.com/hakaell/RunnerV2/blob/master/Assets/5.JPG)
+![finishgame](https://github.com/hakaell/RunnerV2/blob/master/Assets/5.JPG)
